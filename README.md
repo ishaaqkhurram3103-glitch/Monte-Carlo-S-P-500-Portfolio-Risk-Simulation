@@ -10,3 +10,4 @@ Visualizes results using a dashboard with histograms
 Microsoft Excel
 Data Tables
 Statistical functions
+<img width="1517" height="804" alt="image" src="https://github.com/user-attachments/assets/25ee85ba-4d47-474a-8698-61c3944f9985" />
